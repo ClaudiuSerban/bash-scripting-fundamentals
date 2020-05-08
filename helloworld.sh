@@ -1,4 +1,8 @@
 #!/bin/bash
 
-#this is some comment
+#this is a demos script
+
+clear
 echo 'hello world'
+
+exit 0
